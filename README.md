@@ -18,7 +18,7 @@ Requirements:
 
 
 
-#Task 1: Repository Setup
+# Task 1: Repository Setup
 
 1. GitHub Repository Creation:
 
@@ -30,7 +30,7 @@ Requirements:
 
 
 
-#Task 2: Local Setup
+# Task 2: Local Setup
 
 2. Local Folder Setup:
 
@@ -60,7 +60,7 @@ git remote add origin <repository-url>
 
 
 
-#Task 3: Making Changes
+# Task 3: Making Changes
 
 5. Create a File:
 
@@ -90,7 +90,7 @@ git remote add origin <repository-url>
 
 
 
-#Task 4: Pushing to GitHub
+# Task 4: Pushing to GitHub
 
 7. Pushing to GitHub:
 
@@ -104,7 +104,7 @@ git remote add origin <repository-url>
 
 
 
-#Task 5: Verification
+# Task 5: Verification
 
 8. Verify on GitHub:
 
@@ -112,7 +112,7 @@ git remote add origin <repository-url>
 
 
 
-#Submission:
+# Submission:
 
 - Ensure all changes are pushed to your GitHub repository.
 
@@ -120,7 +120,7 @@ git remote add origin <repository-url>
 
 
 
-#Additional Tips:
+# Additional Tips:
 
 - Document the steps and commands used in a text file or in the README of your repository.
 
